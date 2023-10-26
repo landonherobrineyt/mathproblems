@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Game Activation</title>
+    <title>math Activation</title>
 </head>
 <body>
-    <h1>Welcome to My Game</h1>
-    <p>Click the button below to start the game.</p>
+    <h1>math problems</h1>
+    <p>Click the button below to start basic math game.</p>
 
     <!-- Add a button to activate the game -->
     <button id="startGameButton">Start Game</button>
