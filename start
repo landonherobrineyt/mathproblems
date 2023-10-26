@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Game Activation</title>
+</head>
+<body>
+    <h1>Welcome to My Game</h1>
+    <p>Click the button below to start the game.</p>
+
+    <!-- Add a button to activate the game -->
+    <button id="startGameButton">Start Game</button>
+
+    <script>
+        // JavaScript code to activate the game
+        document.getElementById("startGameButton").addEventListener("click", function() {
+            // Redirect to your game page when the button is clicked
+            window.location.href = "eaglercraft.html"; // Replace with the actual path to your game HTML file
+        });
+    </script>
+</body>
+</html>
